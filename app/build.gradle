@@ -10,7 +10,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "me.dio.simulator"
+        applicationId "me.app.Simulator"
         minSdk 21
         targetSdk 32
         versionCode 1
